@@ -1,0 +1,74 @@
+{
+  "common": {
+    "save":        "Enregistrer",
+    "cancel":      "Annuler",
+    "remove":      "Supprimer",
+    "edit":        "Modifier",
+    "saving":      "Enregistrement…",
+    "removing":    "Suppression…",
+    "loading":     "Chargement…",
+    "signOut":     "Se déconnecter",
+    "optional":    "(facultatif)",
+    "search":      "Rechercher",
+    "adminPortal": "Portail Admin"
+  },
+
+  "auth": {
+    "welcome":          "Bon retour",
+    "signInSubtitle":   "Connectez-vous à votre compte administrateur pour continuer",
+    "emailLabel":       "Adresse e-mail",
+    "emailPlaceholder": "admin@eglise.org",
+    "passwordLabel":    "Mot de passe",
+    "passwordPlaceholder": "••••••••",
+    "showPassword":     "Afficher",
+    "hidePassword":     "Masquer",
+    "signIn":           "Se connecter",
+    "signingIn":        "Connexion…",
+    "emailRequired":    "L'e-mail est requis",
+    "passwordRequired": "Le mot de passe est requis",
+    "portalNote":       "{name} · Portail Admin uniquement",
+    "heroCopy":         "Servir votre",
+    "heroCopyFaded":    "communauté ensemble.",
+    "heroDescription":  "Gérez les membres, réunions et demandes de prière — en un seul endroit."
+  },
+
+  "members": {
+    "title":           "Membres",
+    "subtitle":        "{total} inscrits · {admins} admin · {members} membre",
+    "subtitlePlural":  "{total} inscrits · {admins} admins · {members} membres",
+    "addMember":       "Ajouter un membre",
+    "searchPlaceholder": "Rechercher par nom, e-mail ou téléphone…",
+    "noResultsTitle":  "Aucun résultat",
+    "noResultsDesc":   "Aucun membre ne correspond à « {query} »",
+    "emptyTitle":      "Aucun membre pour l'instant",
+    "emptyDesc":       "Ajoutez votre premier membre pour commencer.",
+    "colMember":       "Membre",
+    "colPhone":        "Téléphone",
+    "colRole":         "Rôle",
+    "colActions":      "Actions",
+    "editTitle":       "Modifier le membre",
+    "editSubtitle":    "Mettre à jour les informations du membre",
+    "addTitle":        "Ajouter un membre",
+    "addSubtitle":     "Créer un nouveau compte membre",
+    "fieldName":       "Nom complet",
+    "fieldNamePlaceholder": "Jeanne Dupont",
+    "fieldEmail":      "E-mail",
+    "fieldEmailPlaceholder": "jeanne@eglise.org",
+    "fieldPassword":   "Mot de passe",
+    "fieldPasswordPlaceholder": "Min. 6 caractères",
+    "fieldPhone":      "Numéro de téléphone",
+    "fieldPhonePlaceholder": "+33 6 00 00 00 00",
+    "fieldPhotoUrl":   "URL de la photo",
+    "fieldPhotoUrlPlaceholder": "https://…",
+    "grantAdmin":      "Accorder les droits administrateur",
+    "roleAdmin":       "Admin",
+    "roleMember":      "Membre",
+    "removeTitle":     "Supprimer le membre ?",
+    "removeDesc":      "{name} sera définitivement supprimé et ne pourra plus se connecter.",
+    "removeConfirm":   "Supprimer"
+  },
+
+  "nav": {
+    "members": "Membres"
+  }
+}

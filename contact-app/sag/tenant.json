@@ -1,0 +1,14 @@
+{
+  "_comment": "Runtime tenant config. Edit this file to retheme without rebuilding. Remove this file to use env vars / defaults.",
+  "name": "Salem AG Dubai",
+  "slogan": "Come worship with Us",
+  "logoUrl": "https://cdn.jsdelivr.net/gh/samuelj90/contact-app@main/packages/web/public/assets/icon.png",
+  "whiteLogoUrl": "https://cdn.jsdelivr.net/gh/samuelj90/contact-app@main/packages/web/public/assets/whiteLogo.png",
+  "locale": "en",
+  "theme": {
+    "primary": "#5C3FBD",
+    "primaryHover": "#4F35A8",
+    "primaryLight": "#F0EDFB",
+    "dark": "#0E0A29"
+  }
+}

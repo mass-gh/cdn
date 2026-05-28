@@ -1,0 +1,74 @@
+{
+  "common": {
+    "save":        "Save changes",
+    "cancel":      "Cancel",
+    "remove":      "Remove",
+    "edit":        "Edit",
+    "saving":      "Saving…",
+    "removing":    "Removing…",
+    "loading":     "Loading…",
+    "signOut":     "Sign out",
+    "optional":    "(optional)",
+    "search":      "Search",
+    "adminPortal": "Admin Portal"
+  },
+
+  "auth": {
+    "welcome":          "Welcome back",
+    "signInSubtitle":   "Sign in to your admin account to continue",
+    "emailLabel":       "Email address",
+    "emailPlaceholder": "admin@church.org",
+    "passwordLabel":    "Password",
+    "passwordPlaceholder": "••••••••",
+    "showPassword":     "Show",
+    "hidePassword":     "Hide",
+    "signIn":           "Sign in",
+    "signingIn":        "Signing in…",
+    "emailRequired":    "Email is required",
+    "passwordRequired": "Password is required",
+    "portalNote":       "{name} · Admin Portal only",
+    "heroCopy":         "Serving your",
+    "heroCopyFaded":    "community together.",
+    "heroDescription":  "Manage members, meetings, and prayer requests — all in one place."
+  },
+
+  "members": {
+    "title":           "Members",
+    "subtitle":        "{total} registered · {admins} admin · {members} member",
+    "subtitlePlural":  "{total} registered · {admins} admins · {members} members",
+    "addMember":       "Add Member",
+    "searchPlaceholder": "Search by name, email, or phone…",
+    "noResultsTitle":  "No results found",
+    "noResultsDesc":   "No members match \"{query}\"",
+    "emptyTitle":      "No members yet",
+    "emptyDesc":       "Add your first member to get started.",
+    "colMember":       "Member",
+    "colPhone":        "Phone",
+    "colRole":         "Role",
+    "colActions":      "Actions",
+    "editTitle":       "Edit Member",
+    "editSubtitle":    "Update member information",
+    "addTitle":        "Add Member",
+    "addSubtitle":     "Create a new church member account",
+    "fieldName":       "Full Name",
+    "fieldNamePlaceholder": "Jane Smith",
+    "fieldEmail":      "Email",
+    "fieldEmailPlaceholder": "jane@church.org",
+    "fieldPassword":   "Password",
+    "fieldPasswordPlaceholder": "Min. 6 characters",
+    "fieldPhone":      "Phone Number",
+    "fieldPhonePlaceholder": "+1 (555) 000-0000",
+    "fieldPhotoUrl":   "Photo URL",
+    "fieldPhotoUrlPlaceholder": "https://…",
+    "grantAdmin":      "Grant administrator access",
+    "roleAdmin":       "Admin",
+    "roleMember":      "Member",
+    "removeTitle":     "Remove member?",
+    "removeDesc":      "{name} will be permanently removed and will no longer be able to sign in.",
+    "removeConfirm":   "Remove"
+  },
+
+  "nav": {
+    "members": "Members"
+  }
+}
